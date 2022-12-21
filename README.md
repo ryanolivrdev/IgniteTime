@@ -1,7 +1,7 @@
 <h1 align="center"> Ignite Timer </h1>
 
 <p align="center">
-  <img src=".github/preview.png" width="70%">
+  <img src="https://www.ryanolivr.dev/ignite-time.png" width="70%">
 </p>
 
 <p align="center">
