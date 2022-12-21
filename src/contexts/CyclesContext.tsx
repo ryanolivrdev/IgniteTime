@@ -40,7 +40,7 @@ export const CyclesContext = createContext({} as CyclesContextData)
 
 export function CyclesProvider({ children }: CyclesProviderProps) {
   const [cycleStorage, setCyleStorage] = useLocalStorage<CyclesState>(
-    '@ignite-timer',
+    '@ignite-timer:cycles-state-1.0.0',
     {
       cycles: [],
       activeCycleId: null,
